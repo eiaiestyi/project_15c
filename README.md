@@ -1,7 +1,7 @@
 # project_15c
 Final project for Python course. Program to learn Spanish words.
 
-To start using, enter Airtable api_key in config.py file.
+To start using, enter Airtable api_key and base_key in config.py file.
 
 Airtable configuration:
 1. table 'scores':
